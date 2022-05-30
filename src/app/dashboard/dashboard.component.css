@@ -48,3 +48,7 @@ h2 {
   a:hover {
     background-color: #000;
   }
+
+  .search-results{
+    margin-top: 2rem;
+  }
